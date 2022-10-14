@@ -7,6 +7,6 @@ Convert Epoch timestamps in Nomad debug bundles to ISO 8601 (YYYY-MM-DDTHH:mm:ss
 * replace6tm.py works
 * replace_event1.py doesn't work
 
-* Sites where JSON scan/walk algorythms
+* Sites where JSON scan/walk algorythms are:
   * https://stackoverflow.com/questions/66730815/python-replace-nested-dict-keys-value-in-entire-json-whether-inside-a-list-or
   * https://stackoverflow.com/questions/55704719/python-replace-values-in-nested-dictionary
